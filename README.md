@@ -7,7 +7,7 @@ Datasets that are needed to succesfully run this code are all on the dropbox fol
 
 The Environmental Shear data has to be retrieved and downloaded into cygwin though ERA5 using the code that has already been developed by Sai and I.
 
-The environmental shear mat file is too big for GitHub so that can also be found in the dropbox file.
+The environmental shear mat file is too big for GitHub so that can also be found in the dropbox file it is named "shear0904". This contains information for all environmental wind shear for the month of september, 2004. If you need for another month, you will need to download data from ERA5.
 
 
 
