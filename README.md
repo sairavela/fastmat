@@ -9,7 +9,7 @@ The Environmental Shear data has to be retrieved and downloaded into cygwin thou
 
 The environmental shear mat file is too big for GitHub so that can also be found in the dropbox file it is named "shear0904". This contains information for all environmental wind shear for the month of september, 2004. If you need for another month, you will need to download data from ERA5.
 
-
+The code named "envshear.py" is a python code and that is the code that is to be run on cygwin in order to download and retrieve the files though ERA5. This is just a template: if you want to recieve information from different times other than September 2004 simply edit this code.
 
 
 
