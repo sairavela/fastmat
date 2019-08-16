@@ -2,6 +2,8 @@
 
 Important to note that this is a MATLAB code
 
+To run the hurricane intensity simulator, it is important to have all these files in the same directory and run the "fast_model.m" code.
+
 Datasets that are needed to succesfully run this code are all on the dropbox folder Sai and I have (this includes the Sea Surface Temperature Reanalysis data, the Relative Humididty and Surface Saturation Specific Humidity)
 
 
